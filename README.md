@@ -11,3 +11,7 @@ https://www.jeffknupp.com/blog/2017/03/27/improve-your-python-python-classes-and
 ## Sending Mail
 
 https://blog.soshace.com/using-python-to-automate-your-link-building-processes/
+
+## Debugging in Python
+
+https://martinheinz.dev/blog/24?utm_source=programmingdigest&utm_medium=email&utm_campaign=372
