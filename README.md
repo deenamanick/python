@@ -15,3 +15,7 @@ https://blog.soshace.com/using-python-to-automate-your-link-building-processes/
 ## Debugging in Python
 
 https://martinheinz.dev/blog/24?utm_source=programmingdigest&utm_medium=email&utm_campaign=372
+
+## Qyick notes
+
+https://vancouverites.wixsite.com/cindylin/blog/categories/web-dev
